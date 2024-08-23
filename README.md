@@ -69,3 +69,4 @@ pip install -r requirements.txt
 - `urgent_ride_classification.ipynb`: Classification of urgent ride requests, best version.
 - `urgent_ride_classification_cluster.ipynb`: Clustering analysis for urgent ride classification.
 - `urgent_ride_classification_pca.ipynb`: PCA analysis for urgent ride classification.
+- `mask_detection_cv.ipynb`: Computer Vision analysis for face mask detection through video frame processing.
